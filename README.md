@@ -5,17 +5,6 @@ all you need to know for oslab
 
 ## contents
 
-- week 2 ( shell programs )
-  - swapping numbers
-  - even or odd
-  - determine char type
-  - copy string
-  - sum & avg 10 numbers
-  - factors of a given number
-  - compare two strings
-  - reverse number
-  - pow(x, n)
-
 - week 3 ( system calls )
   - fork()
   - wait()
@@ -49,12 +38,6 @@ all you need to know for oslab
   - bounded buffer problem
   - readers-writers problem
   - dining philosophers problem
-
-- week 9 | 10 ( pthreads )
-  - matrix multiplication
-  - hyper quicksort
-  - merge sort
-  - travelling salesman problem
 
 - week 11 ( linux kernel )
   - task information extraction
